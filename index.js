@@ -85,6 +85,7 @@ class UI {
                 const taskName = document.getElementById("task__name").value;
                 const taskDescription = document.getElementById("task__description").value;
                 const task = new Tasks(taskName , taskDescription);
+                
 
                 const taskDiv = document.createElement("div");
                 taskDiv.classList.add("card", "mt-2")
