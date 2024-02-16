@@ -1,4 +1,15 @@
-<div style={text:center} >App de administrador de tareas:</div>
-Agregar, editar y eliminar tareas 
-persistiendo sus datos en localStorage
-JS vanilla y bootstrap
+### App de administrador de tareas:
+
+✅ Agregar tareas
+
+✅ Editarlas y eliminar tareas
+
+✅ Persistir sus datos en localStorage
+
+✅ JS vanilla y bootstrap css
+
+---
+
+#### Proyecto sencillo en etapa de aprendizaje en el cual mejoré habilidades como estructura de codigo y patrones
+
+---
