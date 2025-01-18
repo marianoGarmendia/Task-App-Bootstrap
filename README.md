@@ -16,4 +16,6 @@
 
 #### Proyecto sencillo en etapa de aprendizaje en el cual mejoré habilidades como estructura de codigo y patrones
 
+### Modifided from my new pc
+
 ---
